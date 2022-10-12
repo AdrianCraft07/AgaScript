@@ -1,0 +1,13 @@
+{
+  "name": "aam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@agacraft/fs": "^1.0.1",
+    "@agacraft/functions": "^1.1.0"
+  }
+}

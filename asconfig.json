@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "ESM",     /* module type ESM (ECMA Script Module) or CJS (Common JS)*/
+    "outDir": "./dist",  /* output directory */
+    "inpDir": "./src",   /* input directory */
+    "minify": false,     /* minify code */
+    "": null
+  }
+}
