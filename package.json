@@ -1,10 +1,10 @@
 {
-  "name": "aam",
+  "name": "AgaScript",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is my custom language",
   "main": "index.js",
   "keywords": [],
-  "author": "",
+  "author": "AgaCraft",
   "license": "ISC",
   "dependencies": {
     "@agacraft/fs": "^1.0.1",
