@@ -135,6 +135,7 @@ function execute(filePath) {
   const code = compile(File, 'CJS');
 
   const asRequire = mod => execute(mod.replace(/^\.\/(.+)$/, dir + '/$1'));
+  asRequire.nativo = mod => require(mod);
   const module = getModule(filePath, dir);
 
   const process = getProcess(module);
