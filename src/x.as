@@ -1,1 +1,0 @@
-exporta defecto 'I am x';

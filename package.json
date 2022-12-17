@@ -1,5 +1,5 @@
 {
-  "name": "AgaScript",
+  "name": "agascript",
   "version": "1.0.0",
   "description": "This is my custom language",
   "main": "index.js",
@@ -7,6 +7,7 @@
   "author": "AgaCraft",
   "license": "ISC",
   "dependencies": {
+    "@agacraft/extension": "^1.0.4",
     "@agacraft/fs": "^1.0.1",
     "@agacraft/functions": "^1.1.0"
   }
